@@ -63,7 +63,7 @@ const Work = () => {
         className="flex flex-col text-5xl xl:text-[8rem] md:text-[5rem] gap-5 xl:absolute xl:right-0  xl:h-full  xl:w-1/2 xl:overflow-y-auto xl:overflow-x-hidden xl:py-32 max-sm:p-5 md:p-5"
       >
         <HyperLinkContainer
-          title="SayIt- a chat app"
+          title="SayIt"
           type="Web App development"
           githubLink="https://github.com/shakti2505/sayit_sever"
           liveLink="https://just-sayit.netlify.app/"
