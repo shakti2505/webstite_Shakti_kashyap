@@ -48,7 +48,7 @@ const Navbar = ({ textColor }) => {
               : "text-[#ECE7E1] hover:text-[#ECE7E1]"
           } font-montserrat font-normal xl:rotate-[270deg]`}
         >
-          2024
+          2025
         </p>
       </div>
     </div>
