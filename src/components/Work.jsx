@@ -63,27 +63,23 @@ const Work = () => {
         className="flex flex-col text-5xl xl:text-[8rem] md:text-[5rem] gap-5 xl:absolute xl:right-0  xl:h-full  xl:w-1/2 xl:overflow-y-auto xl:overflow-x-hidden xl:py-32 max-sm:p-5 md:p-5"
       >
         <HyperLinkContainer
+          title="SayIt- a chat app"
+          type="Web App development"
+          githubLink="https://github.com/shakti2505/sayit_sever"
+          liveLink="https://just-sayit.netlify.app/"
+        />
+        <HyperLinkContainer
           title="Smart Lights"
           type="Web developement"
           githubLink="https://github.com/shakti2505/React-TypeScript_project_smartLights"
           liveLink="https://reactsmartlights.netlify.app/"
         />
-        <HyperLinkContainer
-          title="SocialBook"
-          type="Web App developement"
-          githubLink="https://github.com/shakti2505/Socialbook"
-          liveLink="https://socialbook-x3jq.onrender.com/"
-        />
+
         <HyperLinkContainer
           title="Scholerhub"
           type="Web development"
           githubLink="https://github.com/shakti2505/cityScope_assignment"
           liveLink="https://scholerhub.onrender.com/"
-        />
-        <HyperLinkContainer
-          title="Weather app"
-          type="Web development"
-          githubLink="https://github.com/shakti2505/React_weather_app"
         />
         <HyperLinkContainer
           title="Auth system"
