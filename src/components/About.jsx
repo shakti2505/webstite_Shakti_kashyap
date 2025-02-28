@@ -115,7 +115,7 @@ const About = () => {
                 <br />
                 <Button
                   title="My CV"
-                  link="https://drive.google.com/file/d/1JMw3-UXsvX-129UkEYKViribBJMVSeJA/view?usp=sharing"
+                  link="https://drive.google.com/file/d/1LMbGcYrYsHe4VQtgLKOw5pfi9C5Dz8le/view?usp=sharing"
                 />
                 <br />
                 <Button title="Contact me" />

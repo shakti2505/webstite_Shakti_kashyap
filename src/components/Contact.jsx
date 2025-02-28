@@ -55,14 +55,14 @@ const Contact = () => {
             On the Internet :{" "}
             <a
               className="underline ml-1 text-[#ECE7E1] hover:text-[#ECE7E1] text-sm xl:text-[1rem]   hover:line-through"
-              href="mailto:kashyapshakti1994@gmail.com"
+              href="https://www.linkedin.com/in/shakti-kashyap-3a4271222/"
             >
               Linkedin
             </a>
             <span> /</span>
             <a
               className="underline ml-1 text-[#ECE7E1] hover:text-[#ECE7E1] text-sm xl:text-[1rem]   hover:line-through"
-              href="mailto:kashyapshakti1994@gmail.com"
+              href="https://github.com/shakti2505/"
             >
               GitHub
             </a>
