@@ -46,6 +46,7 @@ const Contact = () => {
             <a
               className="underline ml-1 text-[#ECE7E1] hover:text-[#ECE7E1] hover:line-through"
               href="mailto:kashyapshakti1994@gmail.com"
+              target="_blank"
             >
               kashyapshakti1994@gmail.com
             </a>
@@ -56,6 +57,7 @@ const Contact = () => {
             <a
               className="underline ml-1 text-[#ECE7E1] hover:text-[#ECE7E1] text-sm xl:text-[1rem]   hover:line-through"
               href="https://www.linkedin.com/in/shakti-kashyap-3a4271222/"
+              target="_blank"
             >
               Linkedin
             </a>
@@ -63,6 +65,7 @@ const Contact = () => {
             <a
               className="underline ml-1 text-[#ECE7E1] hover:text-[#ECE7E1] text-sm xl:text-[1rem]   hover:line-through"
               href="https://github.com/shakti2505/"
+              target="_blank"
             >
               GitHub
             </a>
